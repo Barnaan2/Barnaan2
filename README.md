@@ -17,13 +17,19 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![DART](https://img.shields.io/badge/-Dart-000?&logo=Dart)
+![CSS](https://img.shields.io/badge/-Css-000?&logo=Css)
+
 
 
 ### Technologies
 
 
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
+![React](https://img.shields.io/badge/-react-000?&logo=react)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=django)
+![Flutter](https://img.shields.io/badge/-flutter-000?&logo=flutter)
+
 
 
 

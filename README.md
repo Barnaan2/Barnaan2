@@ -24,11 +24,11 @@
 
 ### Technologies
 
-
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
-![React](https://img.shields.io/badge/-react-000?&logo=react)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=django)
+![React](https://img.shields.io/badge/-react-000?&logo=react)
 ![Flutter](https://img.shields.io/badge/-flutter-000?&logo=flutter)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
+
 
 
 

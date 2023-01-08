@@ -14,8 +14,9 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![DART](https://img.shields.io/badge/-Dart-000?&logo=Dart)
-![CSS](https://img.shields.io/badge/-Css-000?&logo=Css)
+![Css](https://img.shields.io/badge/-Css-000?&logo=CSS)
 
 
 

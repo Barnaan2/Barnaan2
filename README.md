@@ -7,6 +7,7 @@
 </a> -->
 
 
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -20,7 +21,7 @@
 
 
 
-### Technologies
+###  Technologies
 
 ![Django](https://img.shields.io/badge/-Django-000?&logo=django)
 ![React](https://img.shields.io/badge/-react-000?&logo=react)
